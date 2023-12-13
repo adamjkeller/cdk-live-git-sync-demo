@@ -1,5 +1,5 @@
 template-file-path: template.yaml
 parameters:
-  FunctionResponse: Sam Bivins
+  FunctionResponse: Hello World
   BucketTag: CDKLive
 tags: {}
